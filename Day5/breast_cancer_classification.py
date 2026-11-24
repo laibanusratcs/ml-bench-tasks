@@ -14,8 +14,6 @@ from sklearn.metrics import (
     classification_report
 )
 
-# Step 1: Load Dataset
-# Provide the location of your downloaded CSV file
 
 file_path = r"C:\Users\laiba\Documents\Day5\breast_cancer_dataset.csv"
 

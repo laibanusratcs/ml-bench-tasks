@@ -1,9 +1,3 @@
-
-# ==========================================
-# Day 6 Mini Project
-# Breast Cancer Prediction System
-# ==========================================
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns

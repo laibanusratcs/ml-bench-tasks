@@ -15,7 +15,7 @@ from sklearn.metrics import (
     classification_report
 )
 
-# Step 1: Load Iris Dataset
+
 
 file_path = r"C:\Users\laiba\Documents\Day5\Iris.csv"
 

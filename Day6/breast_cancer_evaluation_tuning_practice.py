@@ -1,9 +1,3 @@
-
-# ==========================================
-# Day 6 - Coding Practice
-# Model Evaluation and Hyperparameter Tuning
-# ==========================================
-
 import pandas as pd
 
 from sklearn.model_selection import train_test_split, GridSearchCV
